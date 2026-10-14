@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 509" width="680" height="509" font-family="sans-serif">
+<rect width="680" height="509" fill="#FFFFFF"/>
+<line x1="122.4" y1="56.0" x2="122.4" y2="425.1" stroke="#D9DFE7" stroke-width="1" stroke-dasharray="6 4"/>
+<line x1="198.0" y1="56.0" x2="198.0" y2="425.1" stroke="#D9DFE7" stroke-width="1" stroke-dasharray="6 4"/>
+<line x1="258.0" y1="56.0" x2="258.0" y2="425.1" stroke="#D9DFE7" stroke-width="1" stroke-dasharray="6 4"/>
+<line x1="354.0" y1="56.0" x2="354.0" y2="425.1" stroke="#D9DFE7" stroke-width="1" stroke-dasharray="6 4"/>
+<line x1="450.0" y1="56.0" x2="450.0" y2="425.1" stroke="#D9DFE7" stroke-width="1" stroke-dasharray="6 4"/>
+<line x1="531.8" y1="56.0" x2="531.8" y2="425.1" stroke="#D9DFE7" stroke-width="1" stroke-dasharray="6 4"/>
+<line x1="597.8" y1="56.0" x2="597.8" y2="425.1" stroke="#D9DFE7" stroke-width="1" stroke-dasharray="6 4"/>
+<line x1="86.0" y1="78.4" x2="615.8" y2="78.4" stroke="#D9DFE7" stroke-width="1" stroke-dasharray="6 4"/>
+<line x1="86.0" y1="100.0" x2="615.8" y2="100.0" stroke="#D9DFE7" stroke-width="1" stroke-dasharray="6 4"/>
+<line x1="86.0" y1="172.0" x2="615.8" y2="172.0" stroke="#D9DFE7" stroke-width="1" stroke-dasharray="6 4"/>
+<line x1="86.0" y1="268.0" x2="615.8" y2="268.0" stroke="#D9DFE7" stroke-width="1" stroke-dasharray="6 4"/>
+<line x1="86.0" y1="353.1" x2="615.8" y2="353.1" stroke="#D9DFE7" stroke-width="1" stroke-dasharray="6 4"/>
+<path d="M144.0,76.0 L531.8,76.0 A66.0,66.0 0 0 1 562.5,200.4 L190.3,395.6 A48.0,48.0 0 0 1 120.0,353.1 L120.0,100.0 A24.0,24.0 0 0 1 144.0,76.0 Z" fill="#EAF1F9" stroke="#1F4E79" stroke-width="2.6" stroke-linejoin="round"/>
+<rect x="120.0" y="76.0" width="477.8" height="325.1" fill="none" stroke="#AEB8C4" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="522.8" y1="142.0" x2="540.8" y2="142.0" stroke="#C0392B" stroke-width="1.3"/>
+<line x1="531.8" y1="133.0" x2="531.8" y2="151.0" stroke="#C0392B" stroke-width="1.3"/>
+<line x1="159.0" y1="353.1" x2="177.0" y2="353.1" stroke="#C0392B" stroke-width="1.3"/>
+<line x1="168.0" y1="344.1" x2="168.0" y2="362.1" stroke="#C0392B" stroke-width="1.3"/>
+<line x1="135.0" y1="100.0" x2="153.0" y2="100.0" stroke="#C0392B" stroke-width="1.3"/>
+<line x1="144.0" y1="91.0" x2="144.0" y2="109.0" stroke="#C0392B" stroke-width="1.3"/>
+<circle cx="531.8" cy="76.0" r="3" fill="#C0392B"/>
+<circle cx="562.5" cy="200.4" r="3" fill="#C0392B"/>
+<circle cx="190.3" cy="395.6" r="3" fill="#C0392B"/>
+<circle cx="120.0" cy="353.1" r="3" fill="#C0392B"/>
+<circle cx="144.0" cy="76.0" r="3" fill="#C0392B"/>
+<circle cx="120.0" cy="100.0" r="3" fill="#C0392B"/>
+<line x1="144.0" y1="36.0" x2="531.8" y2="36.0" stroke="#B03A2E" stroke-width="1.2"/>
+<line x1="144.0" y1="30.0" x2="144.0" y2="42.0" stroke="#B03A2E" stroke-width="1.2"/>
+<line x1="531.8" y1="30.0" x2="531.8" y2="42.0" stroke="#B03A2E" stroke-width="1.2"/>
+<text x="337.9" y="29.0" font-size="12.5" fill="#B03A2E" text-anchor="middle" font-family="sans-serif">北外皮直段 32 320（圆弧切点→19-6轴）</text>
+<line x1="58.0" y1="100.0" x2="58.0" y2="353.1" stroke="#B03A2E" stroke-width="1.2"/>
+<text x="52.0" y="226.6" font-size="12.5" fill="#B03A2E" text-anchor="middle" font-family="sans-serif" transform="rotate(-90 52.0 226.6)">西外皮直段 21 095（19-E轴→圆弧切点）</text>
+<text x="392.4" y="302.0" font-size="12.5" fill="#B03A2E" font-family="sans-serif" transform="rotate(-27.68 392.4 302.0)">斜边直段 35 000（内角 152°19′）</text>
+<text x="202.8" y="115.6" font-size="13" font-weight="600" fill="#C0392B" font-family="sans-serif">R1 800（内皮）/ R2 000（外皮）</text>
+<text x="202.8" y="131.6" font-size="11.5" fill="#7A8794" font-family="sans-serif">圆心 = 19-E轴 ∩ (19-1轴东1 800)</text>
+<text x="420.0" y="238.0" font-size="12" fill="#1F4E79" font-family="sans-serif">R5 500</text>
+<text x="144.0" y="358.0" font-size="12" fill="#1F4E79" font-family="sans-serif">R4 000</text>
+<line x1="120.0" y1="447.1" x2="597.8" y2="447.1" stroke="#1F4E79" stroke-width="1.6"/>
+<line x1="120.0" y1="440.1" x2="120.0" y2="454.1" stroke="#1F4E79" stroke-width="1.6"/>
+<line x1="597.8" y1="440.1" x2="597.8" y2="454.1" stroke="#1F4E79" stroke-width="1.6"/>
+<text x="358.9" y="466.1" font-size="14" font-weight="600" fill="#1F4E79" text-anchor="middle" font-family="sans-serif">总长 39.82 m（19-1轴外皮 → 19-7轴）</text>
+<line x1="639.8" y1="76.0" x2="639.8" y2="401.1" stroke="#1F4E79" stroke-width="1.6"/>
+<text x="655.8" y="238.6" font-size="14" font-weight="600" fill="#1F4E79" text-anchor="middle" font-family="sans-serif" transform="rotate(-90 655.8 238.6)">总高 27.09 m</text>
+<text x="106.0" y="82.4" font-size="10.5" fill="#8A94A0" text-anchor="end" font-family="sans-serif">19-F</text>
+<text x="106.0" y="104.0" font-size="10.5" fill="#8A94A0" text-anchor="end" font-family="sans-serif">19-E</text>
+<text x="106.0" y="176.0" font-size="10.5" fill="#8A94A0" text-anchor="end" font-family="sans-serif">19-D</text>
+<text x="106.0" y="272.0" font-size="10.5" fill="#8A94A0" text-anchor="end" font-family="sans-serif">19-C</text>
+<text x="106.0" y="357.1" font-size="10.5" fill="#8A94A0" text-anchor="end" font-family="sans-serif">19-B</text>
+<text x="122.4" y="52.0" font-size="10.5" fill="#8A94A0" text-anchor="middle" font-family="sans-serif">19-1</text>
+<text x="198.0" y="52.0" font-size="10.5" fill="#8A94A0" text-anchor="middle" font-family="sans-serif">19-2</text>
+<text x="258.0" y="52.0" font-size="10.5" fill="#8A94A0" text-anchor="middle" font-family="sans-serif">19-3</text>
+<text x="354.0" y="52.0" font-size="10.5" fill="#8A94A0" text-anchor="middle" font-family="sans-serif">19-4</text>
+<text x="450.0" y="52.0" font-size="10.5" fill="#8A94A0" text-anchor="middle" font-family="sans-serif">19-5</text>
+<text x="531.8" y="52.0" font-size="10.5" fill="#8A94A0" text-anchor="middle" font-family="sans-serif">19-6</text>
+<text x="597.8" y="52.0" font-size="10.5" fill="#8A94A0" text-anchor="middle" font-family="sans-serif">19-7</text>
+<text x="18" y="471.1" font-size="11" fill="#8A94A0" font-family="sans-serif">灰虚线 = 39.82 × 27.09 m 外接矩形；浅蓝虚线 = 19-1~19-7 / 19-F~19-B 轴网；红十 = 圆弧圆心</text>
+<text x="18" y="487.1" font-size="11" fill="#8A94A0" font-family="sans-serif">左上圆角为 90° 转角圆弧（非直角）：内皮 R1 800、外皮 R2 000，圆心在 19-E 轴与 19-1 轴东 1 800 的交点</text>
+</svg>

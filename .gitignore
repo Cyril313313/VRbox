@@ -1,0 +1,31 @@
+# Dependencies
+node_modules
+
+# Build output
+dist
+
+# OS / editor
+.DS_Store
+*.log
+.env
+
+# Large / binary source assets (regenerable or provided externally)
+*.dmg
+*.fbx
+*.skp
+*.obj
+*.mtl
+
+# Regenerable scene binary (convert from 6.0.fbx via _tools/fbx_to_obj.mjs)
+public/models/site.glb
+
+# Intermediate analysis artifacts (images, one-off reports) — keep .md docs
+_analysis/totalplan/
+_analysis/crops/
+_analysis/frames/
+_analysis/**/*.png
+_analysis/**/*.jpg
+资料分析报告/
+
+# Local project state (managed by WorkBuddy)
+.workbuddy/
